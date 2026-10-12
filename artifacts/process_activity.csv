@@ -1,0 +1,3 @@
+timestamp_utc,event_id,computer,username,process_id,image,command_line
+2026-09-19T22:07:27Z,4688,NB-FIN-02,nora.ellis,5824,C:\Windows\System32\cmd.exe,cmd.exe /c del C:\Finance\Q3_Forecast.xlsx
+2026-09-19T22:08:01Z,4688,NB-FIN-02,nora.ellis,6012,C:\Windows\System32\whoami.exe,whoami

@@ -1,0 +1,4 @@
+timestamp_utc,event_id,computer,username,object_path,access,process_id
+2026-09-19T09:04:10Z,4663,NB-FIN-02,nora.ellis,C:\Finance\Q3_Forecast.xlsx,ReadData,4140
+2026-09-19T22:07:31Z,4663,NB-FIN-02,nora.ellis,C:\Finance\Q3_Forecast.xlsx,DELETE,5824
+2026-09-19T22:07:33Z,4660,NB-FIN-02,nora.ellis,C:\Finance\Q3_Forecast.xlsx,ObjectDeleted,5824
